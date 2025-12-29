@@ -9,7 +9,7 @@
 
 ## 🛠 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-0078D7?style=for-the-badge)
 ![JavaFX](https://img.shields.io/badge/JavaFX-0078D7?style=for-the-badge)
